@@ -1,0 +1,4 @@
+Beth Salas Is A Workers
+Gender : Male
+Age is 46
+Salary = 1419.688

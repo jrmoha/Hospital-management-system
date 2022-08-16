@@ -1,0 +1,4 @@
+Cole Mills Is A Workers
+Gender : Male
+Age is 42
+Salary = 1419.688

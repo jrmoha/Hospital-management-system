@@ -1,0 +1,4 @@
+Regular Patient
+Name :Lachlan Lister
+Age = 60 ,Lives in Ekrodence
+Doctor Samy

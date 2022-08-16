@@ -1,0 +1,4 @@
+Regular Patient
+Name :Raja Stanton
+Age = 43 ,Lives in Ulburgh
+Doctor Samy

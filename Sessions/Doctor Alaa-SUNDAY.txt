@@ -1,0 +1,2 @@
+The Session will be on : 4 Jun 2022 22:00:00 GMT  The Patient's Age is 50
+It costs $123.2

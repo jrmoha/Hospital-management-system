@@ -1,0 +1,4 @@
+Amelie Sutherland Is A Workers
+Gender : Female
+Age is 21
+Salary = 1419.688

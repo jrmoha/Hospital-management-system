@@ -1,0 +1,4 @@
+Ali Ahmed Is A Workers
+Gender : Male
+Age is 53
+Salary = 1419.688

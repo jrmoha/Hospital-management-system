@@ -1,0 +1,4 @@
+Paloma Malone Is A Nurse
+Gender : Female
+Age is 42
+Salary = 1634.215

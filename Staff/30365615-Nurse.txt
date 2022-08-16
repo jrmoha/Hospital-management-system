@@ -1,0 +1,4 @@
+Kara Reeve Is A Nurse
+Gender : Female
+Age is 28
+Salary = 1634.215

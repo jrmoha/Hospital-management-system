@@ -1,0 +1,4 @@
+Ellie-May Bauer Is A Workers
+Gender : Female
+Age is 42
+Salary = 1419.688

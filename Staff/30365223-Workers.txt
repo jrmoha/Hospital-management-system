@@ -1,0 +1,4 @@
+Samir Wickens Is A Workers
+Gender : Male
+Age is 33
+Salary = 1419.688

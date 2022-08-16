@@ -1,0 +1,4 @@
+Samir Younes Is A Workers
+Gender : Male
+Age is 52
+Salary = 1419.688

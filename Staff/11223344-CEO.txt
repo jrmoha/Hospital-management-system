@@ -1,0 +1,4 @@
+Cleveland Morgan Is A CEO
+Gender : Male
+Age is 73
+Salary = 30960.2245

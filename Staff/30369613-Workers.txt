@@ -1,0 +1,4 @@
+Oscar Mcclain Is A Workers
+Gender : Male
+Age is 22
+Salary = 1419.688

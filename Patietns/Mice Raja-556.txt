@@ -1,0 +1,4 @@
+Regular Patient
+Name :Mice Raja
+Age = 10 ,Lives in Piham
+Doctor Samy

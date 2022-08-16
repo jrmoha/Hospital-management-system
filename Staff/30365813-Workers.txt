@@ -1,0 +1,4 @@
+Mandeep Howarth Is A Workers
+Gender : Female
+Age is 32
+Salary = 1419.688
